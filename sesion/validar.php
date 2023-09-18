@@ -3,7 +3,7 @@
 /**
  * Validacion de datos para poder iniciar sesion
  */
-require_once ("../_db.php");
+require_once ("../db.php");
 $correo=$_POST['correo'];
 $password=$_POST['password'];
 session_start();
