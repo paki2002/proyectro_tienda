@@ -51,8 +51,6 @@
             </div>
         </div>
     </div>
-    <form>
-        <h5>Todos los derecho reservados Marco Antonio</h5>
     </form>
 </body>
 </html>
